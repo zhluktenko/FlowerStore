@@ -1,6 +1,6 @@
 package flower.store;
 
 public class FlowerPack {
-    private Flower flower;
+    private flower.store.flower flower;
     private int quantity;
 }

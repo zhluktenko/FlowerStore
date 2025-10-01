@@ -6,7 +6,7 @@ import lombok.Setter;
 
 
 @Setter
-public class Flower {
+public class flower {
     @Getter
     private double sepalLength;
     private FlowerColor color;
